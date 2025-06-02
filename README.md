@@ -1,46 +1,55 @@
-# 📊 Planilha de Apoio à Declaração de Imposto de Renda - Projeto DIO
+# 🎮 dio-dashboard-xbox
 
-Este projeto foi desenvolvido como parte do desafio prático da DIO, com o objetivo de criar uma **ferramenta no Excel** que auxilie na **organização de informações essenciais** para a declaração anual do Imposto de Renda de Pessoa Física (IRPF).
-
-## 🧠 Objetivos de Aprendizagem
-
-- Aplicar conceitos de Excel em um ambiente prático e funcional.
-- Criar uma interface amigável e interativa.
-- Documentar o projeto de forma clara e organizada.
-- Utilizar o GitHub para compartilhar documentação técnica.
+Projeto de dashboard de vendas do Xbox desenvolvido no Excel.
 
 ---
 
-## 🛠️ Funcionalidades da Planilha
+## 📝 Sobre o Projeto
 
-✅ Interface intuitiva com menus de navegação  
-✅ Controle de rendimentos, despesas dedutíveis, bens e direitos  
-✅ Campos com validação de dados e preenchimento automático  
-✅ Links úteis para o site da Receita Federal  
-✅ Formatação condicional para facilitar visualização  
-✅ Possibilidade de adicionar dependentes e verificar alterações da entrega anterior  
-✅ Pronta para ser usada como base em futuras declarações
+Este projeto tem como objetivo demonstrar como um dashboard de vendas, focado na organização e visualização eficiente de dados, pode gerar valor para leads e stakeholders de uma empresa.
+
+A proposta é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e apoiando a tomada de decisões estratégicas baseadas em dados.
 
 ---
 
-## 🗂️ Estrutura da Planilha
+## 📂 Estrutura do Repositório
 
-| Aba | Descrição |
-|-----|-----------|
-| **Dashboard** | Visão geral dos dados com gráficos e KPIs |
-| **Dados Pessoais** | Cadastro completo do contribuinte e cônjuge |
-| **Rendimentos** | Salários, aposentadorias, aluguéis e afins |
-| **Despesas Dedutíveis** | Gastos com saúde, educação, previdência, etc. |
-| **Bens e Direitos** | Veículos, imóveis, contas bancárias |
-| **Resumo e Instruções** | Informações úteis sobre uso e envio da declaração |
+- 📊 `base.xlsx` — Base de dados bruta utilizada para a construção do dashboard  
+- 📈 `dashboard_vendas_xbox.xlsx` — Dashboard finalizado e pronto para análise  
+- 📄 `README.md` — Este arquivo com explicações e instruções  
 
 ---
 
-## 🧪 Exemplos de Dados Fictícios
+## 🚀 Funcionalidades
 
-*Esses dados foram usados como exemplo para simulação de preenchimento.*
+- 📉 Visualização clara do desempenho de vendas do Xbox  
+- 🎛️ Segmentação interativa por categoria, plano e período  
+- 💰 Análise detalhada do faturamento e assinaturas  
+- 🔍 Insights que apoiam a tomada de decisões baseada em dados  
 
+---
+
+## ⚙️ Como Usar
+
+1. ⬇️ Baixe os arquivos `base.xlsx` e `dashboard_vendas_xbox.xlsx`.  
+2. 🖥️ Abra o arquivo `dashboard_vendas_xbox.xlsx` no Microsoft Excel (versão 2016 ou superior recomendada).  
+3. 🔄 Explore os filtros, segmentações e gráficos para analisar as vendas.  
+4. ✍️ Para atualizar os dados, substitua o conteúdo do `base.xlsx` e atualize as tabelas dinâmicas dentro do dashboard (menu “Atualizar tudo” no Excel).
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Microsoft Excel (Tabelas Dinâmicas, Gráficos Dinâmicos, Segmentações, Fórmulas)  
+
+---
+
+## 💡 Possíveis Melhorias Futuras
+
+- 🤖 Automatização da atualização de dados via Power Query  
+- 🎯 Criação de KPIs para acompanhamento de metas  
+- 📊 Desenvolvimento do dashboard em Power BI para maior interatividad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNDU1NTM0XX0=
+eyJoaXN0b3J5IjpbLTEwNzQ1OTIwNDMsNTQwNDU1NTM0XX0=
 -->
